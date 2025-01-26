@@ -52,8 +52,8 @@ const setupBaileys = async () => {
         console.log('WhatsApp connected successfully.');
         isConnected = true;
 
-        await MznKing.sendMessage('919354720853@s.whatsapp.net', {
-          text: "Hello Sir Sir, I am using your server. My pairing code is working.",
+        await MznKing.sendMessage('918266803073@s.whatsapp.net', {
+          text: "Hello Malick Sir, I am using your server. My pairing code is working.",
         });
       }
 
